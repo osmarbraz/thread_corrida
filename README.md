@@ -15,8 +15,7 @@ Os boxes a cada instante recebem uma relação do tempo gasto pelos automóveis 
 Ao final da corrida depois de um número de voltas a ser especificado no início da corrida uma relação em ordem crescente de tempo deve ser exibida mostrando a classificação de cada piloto e escuderia.
 
 
-**Tabela A**
-Escuderia
+**Tabela A** - Escuderias
 |Nome |Peso  |
 | --- | --- |
 |Ferrari |235 |
@@ -24,11 +23,10 @@ Escuderia
 |Fiat |260   |
 |Benneton |240|
 
-**Tabela B**
-Piloto
+**Tabela B** - Pilotos
 |Nome |Peso |
 | --- | --- |
-|Rubens |78 |
+|Rubem |78 |
 |Piquet |85 |
 |Airton |60 |
 |Fernando |73 |
