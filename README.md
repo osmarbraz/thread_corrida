@@ -17,9 +17,7 @@ Ao final da corrida depois de um número de voltas a ser especificado no início
 
 **Tabela A**
 |Escuderia |
-| ----------------- |
 |Nome |Peso  |
-| ------ | ---- |
 |Ferrari |235 |
 |Mclarem |245 |
 |Fiat |260   |
@@ -27,9 +25,7 @@ Ao final da corrida depois de um número de voltas a ser especificado no início
 
 **Tabela B**
 |Piloto |
-| ----------------- |
 |Nome |Peso |
-| ----- | ---- |
 |Rubens |78 |
 |Piquet |85 |
 |Airton |60 |
