@@ -16,16 +16,18 @@ Ao final da corrida depois de um número de voltas a ser especificado no início
 
 
 **Tabela A**
-|Escuderia |
+Escuderia
 |Nome |Peso  |
+| --- | --- |
 |Ferrari |235 |
 |Mclarem |245 |
 |Fiat |260   |
 |Benneton |240|
 
 **Tabela B**
-|Piloto |
+Piloto
 |Nome |Peso |
+| --- | --- |
 |Rubens |78 |
 |Piquet |85 |
 |Airton |60 |
