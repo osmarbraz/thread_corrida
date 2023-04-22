@@ -1,5 +1,7 @@
 # Implementação de Corrida com Thread em Java.
 
+## Contextualização
+
 Implementar uma corrida virtual de Threads em java.
 
 A largada de uma corrida de automóvel vai ser dada. 
@@ -31,4 +33,8 @@ Ao final da corrida depois de um número de voltas a ser especificado no início
 |Airton |60 |
 |Fernando |73 |
 
+## Arquivos
+
+- pom.xml - Arquivo de configuração da ferramenta de automação Maven.
+- *.bat - Arquivos de lote(Batch) de console para tarefas compilar, executar, documentar, empacotar e limpar o projeto.
 
